@@ -1,0 +1,77 @@
+# ────────────────────────────────────────────────────────────────────────────
+# Data (we only commit the small annotated training files in data/annotations/)
+# ────────────────────────────────────────────────────────────────────────────
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# ────────────────────────────────────────────────────────────────────────────
+# Trained model checkpoints (host on Hugging Face Hub or Zenodo instead)
+# ────────────────────────────────────────────────────────────────────────────
+models/*
+!models/.gitkeep
+!models/README.md
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+bertopic_model_*/
+
+# ────────────────────────────────────────────────────────────────────────────
+# Notebook outputs and run artifacts that don't need to be versioned
+# ────────────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+results/figures/*
+!results/figures/.gitkeep
+results/tables/*
+!results/tables/.gitkeep
+results/topic_outputs/*
+!results/topic_outputs/.gitkeep
+
+# ────────────────────────────────────────────────────────────────────────────
+# Python
+# ────────────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ────────────────────────────────────────────────────────────────────────────
+# Editor / OS
+# ────────────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ────────────────────────────────────────────────────────────────────────────
+# Logs / temp
+# ────────────────────────────────────────────────────────────────────────────
+*.log
+*.tmp
+.cache/
