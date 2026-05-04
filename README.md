@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 ## 🔗 Links
 
-- 📄 **[Paper (Coming Soon)](https://)**
+- 📄 **[Paper (On Publication Process)](https://)**
 - 📁 **[GitHub Repository](https://github.com/anjawm/Climate-Framing-Affect)**
 
 ---
