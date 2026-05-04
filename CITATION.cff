@@ -1,16 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software or the annotated data, please cite both this repository and the paper it accompanies."
-title: "Code and annotated data for: <Paper Title>"
+title: "Code and annotated data for: The Narrative Coping Deficit: Computational Diagnosis of Climate Framing-Affect Coupling"
 authors:
-  - family-names: "<Your Last Name>"
-    given-names: "<Your First Name>"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-    # affiliation: "<Your Affiliation>"
-    # email: "<your.email@example.com>"
-version: 0.1.0
-date-released: 2026-01-01
+  - family-names: "Manihuruk"
+    given-names: "Anjawati"
+    affiliation: "School of Economics and Business, Telkom University, Bandung, Indonesia"
+    email: "anjaaawm@student.telkomuniversity.ac.id"
+  - family-names: "Alamsyah"
+    given-names: "Andry"
+    affiliation: "School of Economics and Business, Telkom University, Bandung, Indonesia"
+    email: "andrya@telkomuniversity.ac.id"
+  - family-names: "Ramadhani"
+    given-names: "Dian Puteri"
+    affiliation: "School of Economics and Business, Telkom University, Bandung, Indonesia"
+    email: "dianpramadhani@telkomuniversity.ac.id"
+version: 1.0.0
+date-released: 2026-04-30
 license: MIT
-repository-code: "https://github.com/<your-username>/<repo-name>"
+repository-code: "https://github.com/anjawm/Climate-Framing-Affect"
 keywords:
   - climate change
   - SDG 13
@@ -19,14 +26,19 @@ keywords:
   - text classification
   - eco-emotion
   - climate discourse
+  - computational social science
 # Once the manuscript is published, fill in the preferred-citation block below
 # (and add a Zenodo DOI to the top-level `doi:` field).
 # preferred-citation:
 #   type: article
-#   title: "<Paper Title>"
+#   title: "The Narrative Coping Deficit: Computational Diagnosis of Climate Framing-Affect Coupling"
 #   authors:
-#     - family-names: "<Your Last Name>"
-#       given-names: "<Your First Name>"
-#   journal: "Climatic Change"
+#     - family-names: "Manihuruk"
+#       given-names: "Anjawati"
+#     - family-names: "Alamsyah"
+#       given-names: "Andry"
+#     - family-names: "Ramadhani"
+#       given-names: "Dian Puteri"
+#   journal: "<Springer journal name on acceptance>"
 #   year: 2026
-#   doi: "10.1007/s10584-XXX-XXXXX-X"
+#   doi: "<DOI on publication>"
