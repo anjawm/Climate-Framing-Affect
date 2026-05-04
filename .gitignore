@@ -1,12 +1,4 @@
 # ────────────────────────────────────────────────────────────────────────────
-# Data (we only commit the small annotated training files in data/annotations/)
-# ────────────────────────────────────────────────────────────────────────────
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-
-# ────────────────────────────────────────────────────────────────────────────
 # Trained model checkpoints (host on Hugging Face Hub or Zenodo instead)
 # ────────────────────────────────────────────────────────────────────────────
 models/*
@@ -22,12 +14,6 @@ bertopic_model_*/
 # Notebook outputs and run artifacts that don't need to be versioned
 # ────────────────────────────────────────────────────────────────────────────
 .ipynb_checkpoints/
-results/figures/*
-!results/figures/.gitkeep
-results/tables/*
-!results/tables/.gitkeep
-results/topic_outputs/*
-!results/topic_outputs/.gitkeep
 
 # ────────────────────────────────────────────────────────────────────────────
 # Python
