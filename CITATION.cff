@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or the annotated data, please cite both this repository and the paper it accompanies."
-title: "Code and annotated data for: Where Climate-Action Discourse Diverges: Governance Registers and Expressed Eco-Emotion Across Communicative Arenas"
+title: "Code and annotated data for: Located, Not General: Convergence and Divergence in Climate-Action Discourse Across Communicative Arenas"
 authors:
   - family-names: "Manihuruk"
     given-names: "Anjawati"
@@ -31,7 +31,7 @@ keywords:
 # (and add a Zenodo DOI to the top-level `doi:` field).
 # preferred-citation:
 #   type: article
-#   title: "Where Climate-Action Discourse Diverges: Governance Registers and Expressed Eco-Emotion Across Communicative Arenas"
+#   title: "Located, Not General: Convergence and Divergence in Climate-Action Discourse Across Communicative Arenas"
 #   authors:
 #     - family-names: "Manihuruk"
 #       given-names: "Anjawati"
