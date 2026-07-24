@@ -2,7 +2,7 @@
 
 This repository contains the annotated datasets, model training notebooks, and reproducibility materials for the paper titled:
 
-> **"The Narrative Coping Deficit: Computational Diagnosis of Climate Framing-Affect Coupling"**
+> **"Where Climate-Action Discourse Diverges: Governance Registers and Expressed Eco-Emotion Across Communicative Arenas"**
 
 ---
 
