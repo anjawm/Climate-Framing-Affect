@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or the annotated data, please cite both this repository and the paper it accompanies."
-title: "Code and annotated data for: The Narrative Coping Deficit: Computational Diagnosis of Climate Framing-Affect Coupling"
+title: "Code and annotated data for: Where Climate-Action Discourse Diverges: Governance Registers and Expressed Eco-Emotion Across Communicative Arenas"
 authors:
   - family-names: "Manihuruk"
     given-names: "Anjawati"
@@ -31,7 +31,7 @@ keywords:
 # (and add a Zenodo DOI to the top-level `doi:` field).
 # preferred-citation:
 #   type: article
-#   title: "The Narrative Coping Deficit: Computational Diagnosis of Climate Framing-Affect Coupling"
+#   title: "Where Climate-Action Discourse Diverges: Governance Registers and Expressed Eco-Emotion Across Communicative Arenas"
 #   authors:
 #     - family-names: "Manihuruk"
 #       given-names: "Anjawati"
@@ -39,6 +39,6 @@ keywords:
 #       given-names: "Andry"
 #     - family-names: "Ramadhani"
 #       given-names: "Dian Puteri"
-#   journal: "<Springer journal name on acceptance>"
+#   journal: "<Taylor & Francis journal name on acceptance>"
 #   year: 2026
 #   doi: "<DOI on publication>"
